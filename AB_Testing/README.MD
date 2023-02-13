@@ -33,4 +33,4 @@ there is a significant difference between the two groups.
 
 ## Results
 With reference to statistical test done, Gate should be placed at level 30. 
-More details is available [here.](https://github.com/iqrabismii/Statistics-/blob/main/AB_Testing/ABtesting.ipynb) 
+More details are available [here.](https://github.com/iqrabismii/Statistics-/blob/main/AB_Testing/ABtesting.ipynb) 
